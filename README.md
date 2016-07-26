@@ -5,6 +5,26 @@ A baseline installation of Ubuntu Linux on a virtual machine to host a Flask web
 - Installation and configuration of database and web servers
 - Hosting a flask application
 
+##Summary
+- IP address: 52.42.107.197
+- SSH Port: 2200
+- Complete URL to web application: http://ec2-52-42-107-197.us-west-2.compute.amazonaws.com
+- List of software installed
+  - finger
+  - postgresql
+  - fail2ban
+  - ntp
+  - apache web server
+  - python
+  - Flask
+  - httplib2
+  - virtualenv
+  - requests
+  - flask-sersurf
+  - oauth2client
+  - sqlalchemy
+  - psycopg2
+  
 
 ## Step by Step Walkthrough
 In the step-by-step guide provided below I tried to list and explain the steps I executed to arrive at the project solution.
