@@ -25,6 +25,7 @@ A baseline installation of Ubuntu Linux on a virtual machine to host a Flask web
   - sqlalchemy
   - psycopg2
   - sendmail
+  - pip
   
 
 ## Step by Step Walkthrough
