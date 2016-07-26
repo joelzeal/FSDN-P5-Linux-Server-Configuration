@@ -56,7 +56,7 @@ Source:[Ask Ubuntu]
 2. Install newer versions of packages installed:
   `$ sudo apt-get upgrade`
 
-## Include cron cripts to automatically manage pakage updates:
+#### 5.1 Include cron cripts to automatically manage pakage updates:
 Source: [Ubuntn Documentation]
 
 1. Install the unattended-upgrades package:  
