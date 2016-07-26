@@ -2,15 +2,16 @@
 A baseline installation of Ubuntu Linux on a virtual machine to host a Flask web application. This includes the following:
 - Installation of updates
 - Activation and configuration of Firewall
-- Configuration of database and web servers
+- Installation and configuration of database and web servers
+- Hosting a flask application
 
 
 ## Step by Step Walkthrough
-In the step-by-step guide below I tried to list and explain the steps I executed to arrive at the project solution.
-I have provided links to the resources used. 
+In the step-by-step guide provided below I tried to list and explain the steps I executed to arrive at the project solution.
+I have also provided links to the resources used. 
 
 ### 1 & 2 - Create Development Environment: Launch Machine and SSH into it.
-Source: Udacity
+Source: [Udacity][3]
 
 1.Create new development environment.
 
