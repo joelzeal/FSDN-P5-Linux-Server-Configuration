@@ -26,6 +26,7 @@ A baseline installation of Ubuntu Linux on a virtual machine to host a Flask web
   - psycopg2
   - sendmail
   - pip
+  - unattended-upgrades
   
 
 ## Step by Step Walkthrough
